@@ -66,6 +66,7 @@
         "psalm": "psalm --diff --diff-methods",
         "test": "phpunit",
         "test-coverage": "phpunit --coverage-html coverage",
+        "coverage": "phpunit --coverage-text",
         "format": "php-cs-fixer fix --allow-risky=yes"
     }
 }
