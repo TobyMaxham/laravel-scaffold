@@ -21,6 +21,6 @@
     </issueHandlers>
 
     <plugins>
-        <pluginClass class="Psalm\LaravelPlugin\Plugin"/>
+        <!--<pluginClass class="Psalm\LaravelPlugin\Plugin"/>-->
     </plugins>
 </psalm>
